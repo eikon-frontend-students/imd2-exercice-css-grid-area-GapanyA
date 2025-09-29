@@ -203,7 +203,7 @@ video {
       ". header"
       "nav main"
       "footer footer";
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
     grid-template-rows: auto auto auto;
   }
   .projects-grid {
@@ -223,7 +223,7 @@ video {
       ". . header ."
       ". nav main ."
       "footer footer footer footer";
-    grid-template-columns: 1fr 2fr 6fr 1fr;
+    grid-template-columns: 1fr 2fr 8fr 1fr;
     grid-template-rows: auto auto auto;
   }
   .projects-grid {
